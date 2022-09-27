@@ -1,0 +1,18 @@
+<head>
+    {% include 'static/parciais/_head.html' %}
+</head>
+
+<body>
+  {% include 'static/parciais/_nav.html' %}
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {% block conteudo %} {% endblock %} 
+
+        
+      </div>
+    </div>
+  </div>
+  {% include 'static/parciais/_js.html' %}
+</body>
