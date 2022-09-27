@@ -1,0 +1,36 @@
+# Mudanças a serem submetidas:
+#	modified:   contatos/admin.py
+#	modified:   contatos/templates/contatos/detalhes.html
+#	modified:   contatos/templates/contatos/index.html
+#	modified:   contatos/urls.py
+#	modified:   tabela/settings.py
+#	modified:   tabela/urls.py
+#	modified:   templates/static/parciais/_js.html
+#	modified:   templates/static/parciais/_nav.html
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-grid.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-grid.css.map
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-grid.min.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-grid.min.css.map
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-reboot.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-reboot.css.map
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-reboot.min.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap.css.map
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap.min.css
+#	new file:   templates/static/vendor/bootstrap/css/bootstrap.min.css.map
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.bundle.js
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.bundle.js.map
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.bundle.min.js
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.js
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.js.map
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.min.js
+#	new file:   templates/static/vendor/bootstrap/js/bootstrap.min.js.map
+#	new file:   templates/static/vendor/jquery/jquery.js
+#	new file:   templates/static/vendor/jquery/jquery.min.js
+#	new file:   templates/static/vendor/jquery/jquery.min.map
+#	new file:   templates/static/vendor/jquery/jquery.slim.js
+#	new file:   templates/static/vendor/jquery/jquery.slim.min.js
+#	new file:   templates/static/vendor/jquery/jquery.slim.min.map
+#
