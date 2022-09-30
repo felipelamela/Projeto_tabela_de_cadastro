@@ -7,7 +7,6 @@ from django.db.models.functions import Concat
 from django.contrib import messages
 
 def index(request):
-
     contatos = Contato.objects.order_by('id').filter(
         mostrar=True
     )
@@ -38,9 +37,7 @@ def busca(request):
             messages.ERROR, "Campo vazio."
         )
         return redirect('index')
-        
-        
-    termo.title()
+
 
     campo = Concat('nome', Value(' '), 'sobrenome')
 
